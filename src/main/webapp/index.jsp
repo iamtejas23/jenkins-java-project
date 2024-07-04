@@ -13,8 +13,8 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-7.0</h2>
-        <b>iamtejas23</b>
+      <h2>NETFLIX SIGN IN V-8.0</h2>
+        
       <form action="#">
         <div class="form-control">
           <input type="text" required />
